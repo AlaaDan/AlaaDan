@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlaaDan&show_icons=true&locale=en" alt="AlaaDan" /></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaDan" />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlaaDan)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
