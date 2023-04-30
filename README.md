@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlaaDan&show_icons=true&locale=en&layout=compact" alt="AlaaDan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlaaDan&show_icons=true&locale=en" alt="AlaaDan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlaaDan&show_icons=true&locale=sv" alt="AlaaDan" /></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaDan" />
 
-
-<iframe width="600" height="600" <img src="https://ionicabizau.github.io/github-profile-languages/api.html?AlaaDan" /> frameborder="0"></iframe>
 
 
 
