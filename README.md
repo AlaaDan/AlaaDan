@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlaaDan)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlaaDan&show_icons=true&locale=en&layout=compact" alt="Alaa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlaaDan&show_icons=true&locale=en&layout=compact" alt="AlaaDan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlaaDan&show_icons=true&locale=en" alt="Alaa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlaaDan&show_icons=true&locale=en" alt="AlaaDan" /></p>
