@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlaaDan)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaDan" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaDan" /> -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlaaDan)](https://github.com/anuraghazra/github-readme-stats)
 
